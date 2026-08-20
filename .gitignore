@@ -1,0 +1,20 @@
+# Gradle / build output
+.gradle
+build
+/captures
+.externalNativeBuild
+.cxx
+
+# IDE
+*.iml
+/.idea
+
+# Local machine config — holds sdk.dir and the Gemini API key (the one real secret here)
+local.properties
+
+# Signing material
+*.jks
+*.keystore
+
+# OS
+.DS_Store

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "666618533805",
+    "project_id": "gni-sample",
+    "storage_bucket": "gni-sample.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666618533805:android:b1d7d0682db933bd663324",
+        "android_client_info": {
+          "package_name": "com.gni.sample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAmEU48TMmgtDry4tS_5do7k-c9kQb6Lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

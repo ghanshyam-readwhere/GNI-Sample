@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The widget shortcut icons below are served over plain http, so allow cleartext for that host only. -->
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="false">mcmscache.epapr.in</domain>
+    </domain-config>
+</network-security-config>

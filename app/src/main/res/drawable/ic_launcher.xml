@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Simple self-contained launcher icon so the demo doesn't show the default Android robot. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Rounded brand-navy tile -->
+    <path
+        android:fillColor="#1F3864"
+        android:pathData="M24,10h60a14,14 0 0 1 14,14v60a14,14 0 0 1 -14,14H24a14,14 0 0 1 -14,-14V24a14,14 0 0 1 14,-14z" />
+
+    <!-- Newspaper sheet -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,32h48a4,4 0 0 1 4,4v36a4,4 0 0 1 -4,4H30a4,4 0 0 1 -4,-4V36a4,4 0 0 1 4,-4z" />
+
+    <!-- Masthead bar -->
+    <path
+        android:fillColor="#1F3864"
+        android:pathData="M33,39h42v7H33z" />
+
+    <!-- Text lines -->
+    <path
+        android:fillColor="#8C9BB5"
+        android:pathData="M33,52h20v4H33zM33,60h20v4H33zM33,68h20v4H33z" />
+
+    <!-- Article thumbnail -->
+    <path
+        android:fillColor="#C62828"
+        android:pathData="M58,52h17v20H58z" />
+</vector>
